@@ -23,7 +23,7 @@
   ## Deployed Link
   https://stark-plains-75590.herokuapp.com/
   ## Screenshot
-  ![](images/budget-tracker.pdf)
+  ![](images/budget-tracker.PNG)
   ## Questions
   My Github https://github.com/Jacobn88.
   Reach out to me at Nelsonjacob1988@gmail.com with any questions!
