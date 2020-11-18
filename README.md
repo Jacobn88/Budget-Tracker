@@ -20,7 +20,7 @@
   Name your transaction, enter an amount and choose to add or subtract the funds from your budget.
   ## License
   Uses Eclipse Public License 1.0.
-  ## Deployed Link
+  ## Deployed
   https://stark-plains-75590.herokuapp.com/
   ## Screenshot
   ![](images/budget-tracker.png)
