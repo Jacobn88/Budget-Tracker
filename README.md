@@ -10,8 +10,8 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  - [Deployed Link](#deployed)
+  - [Screenshot](#Screenshot)
   - [Questions](#questions) 
 
   ## Installation
@@ -20,10 +20,10 @@
   Name your transaction, enter an amount and choose to add or subtract the funds from your budget.
   ## License
   Uses Eclipse Public License 1.0.
-  ## Contributing Guidelines
-  None
-  ## Tests
-  None
+  ## Deployed Link
+  https://stark-plains-75590.herokuapp.com/
+  ## Screenshot
+  ![](images/budget-tracker.pdf)
   ## Questions
   My Github https://github.com/Jacobn88.
   Reach out to me at Nelsonjacob1988@gmail.com with any questions!
