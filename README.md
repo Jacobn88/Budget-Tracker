@@ -10,7 +10,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Deployed Link](#deployed link)
+  - [Deployed Link](#deployed)
   - [Screenshot](#Screenshot)
   - [Questions](#questions) 
 
